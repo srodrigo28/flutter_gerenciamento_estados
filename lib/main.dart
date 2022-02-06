@@ -4,6 +4,8 @@ import 'package:flutter_gerenciamento_estados/screens/dashboard/dashboard.dart';
 void main() => runApp(BytebankApp());
 
 class BytebankApp extends StatelessWidget {
+  const BytebankApp({Key? key}) : super(key: key);
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
