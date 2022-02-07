@@ -13,14 +13,15 @@
 * baixar versões do fvm
 * listar e instalar versão do flutter
   * ativar o fvm
-    * pub global activate fvm
+   * choco install fvm
+   * pub global activate fvm
   * para listar
-    * fvm list
+   * fvm list
   * para installar
-    * fvm install + a versão exemplo 1.22.2
+   * fvm install + a versão exemplo 1.22.2
   * para usar setar a versão
-    * dentro da pasta do projeto usar o comando
-    * fvm use
+   * dentro da pasta do projeto usar o comando
+   * fvm use
 
 ## Novidades
 
