@@ -16,12 +16,15 @@
    * choco install fvm
    * pub global activate fvm
   * para listar
+   * para ver as versões disponiveis para downlaods 
+    * fvm releases
+   * para listar as versões instaladas no seu pc 
    * fvm list
-  * para installar
-   * fvm install + a versão exemplo 1.22.2
+  * exemplo como installar
+   * fvm installar 1.22.2
   * para usar setar a versão
    * dentro da pasta do projeto usar o comando
-   * fvm use
+   * fvm use 1.22.2
 
 ## Novidades
 
